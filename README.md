@@ -12,6 +12,7 @@ This tutorial utilizes Github Actions to validate & publish data contracts, regi
 
 The tutorial repository is a small, self contained sample repository that lets you run through the end-to-end process of publishing a data contract and seeing that contract be enforced with Gable's platform. In this tutorial, you'll create a fork of the repository, configure your Gable credentials, and run the CI/CD workflows in Github Actions. If you're using the credentials from your sandbox environment, you can even run through this tutorial by making a personal fork of this repository.
 
+
 ### Fork this repository into your account
 
 Navigate to the [tutorial repository](https://github.com/gabledata/tutorial) and click on the "Fork" button in the top-right corner of the repository's page.
