@@ -6,7 +6,7 @@ namespace: Transit
 doc: Real-time location and status of a transit vehicle
 owner: chadgable@gable.ai
 schema:
-  - name: agencyIdentifier
+  - name: agencyId
     doc: The ID of the transit agency that operates this route.
     type: string
   - name: vehicleId
